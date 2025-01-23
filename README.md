@@ -1,1 +1,1 @@
-# Computer-Vision-EEG
+# Computer Vision EEG Pipeline
